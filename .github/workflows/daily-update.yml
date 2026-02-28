@@ -1,4 +1,6 @@
 name: Daily Repository Update
+permissions: 
+  contents: write
 
 on:
   schedule:
