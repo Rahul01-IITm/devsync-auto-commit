@@ -1,0 +1,1 @@
+[![Daily Repository Update](https://github.com/Rahul01-IITm/devsync-auto-commit/actions/workflows/daily-update.yml/badge.svg)](https://github.com/Rahul01-IITm/devsync-auto-commit/actions/workflows/daily-update.yml)
